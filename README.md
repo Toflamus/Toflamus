@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toflamus
-- 👀 I’m interested in Physcis
+- 👀 I’m interested in Physcis\Chemistry\Biology\Computer Science
 - 🌱 I’m currently learning Chemical Engineering
 - 💞️ I’m looking to collaborate on Phycis-Chemistry
 - 📫 How to reach me wang-cl@mails.tsinghua.edu.cn
