@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toflamus
 - 👀 I’m interested in Physics\Chemistry\Biology\Computer Science
 - 🌱 I’m currently learning Chemical Engineering
-- 💞️ I’m looking to collaborate on Physics-Chemistry
+- 💞️ I’m looking to collaborate on Physical-Chemistry
 - 📫 How to reach me wang-cl21@mails.tsinghua.edu.cn
 <!---
 Toflamus/Toflamus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
