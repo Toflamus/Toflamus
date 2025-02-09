@@ -5,7 +5,6 @@
 - 📫 How to reach me：
 - Temporaryy working emails
   * wang-cl21@mails.tsinghua.edu.cn
-  * chaolong.wang@spc.ox.ac.uk
 - Permanent working email:
   * toflamus12138@gmail.com
 <!---
