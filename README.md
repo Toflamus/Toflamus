@@ -5,8 +5,6 @@
 - 📫 How to reach me：
 - Temporaryy working emails
   * wang-cl21@mails.tsinghua.edu.cn
-- Permanent working email:
-  * toflamus12138@gmail.com
 <!---
 Toflamus/Toflamus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
